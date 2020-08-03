@@ -1,0 +1,6 @@
+print('Name: Osiagwu Patricia N.', end='\n * ')
+print('Email: osiagwupatricia9@gmail.com', end='\n * ')
+print('Language: Python', end='\n * ')
+print('Biostack: Bioinformatics', end='\n * ')
+print('Username: @Tris')
+print('Thank you') 
