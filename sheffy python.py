@@ -1,0 +1,6 @@
+print '''NAME: AGBAJE SHERIFF
+            EMAIL: SHEFFYDEEN1@GMAIL.COM
+            LANGUAGE: PYTHON
+            BIOSTACK: GENOMICS
+            SLACKUSERNAME: @SHEFFY'''
+
