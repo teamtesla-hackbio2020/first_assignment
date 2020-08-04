@@ -9,7 +9,7 @@ int main()
     cout<<"My email is rasha.kaffas@kasralainy.edu.eg\n";
     cout<<"Language used is C++\n";
     cout<<"My Biostack is Genomics\n";
-    cout<<"My Slack username is Rasha";
+    cout<<"My Slack username is @Rasha";
 
     return 0;
 }
