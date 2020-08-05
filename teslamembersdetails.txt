@@ -1,0 +1,59 @@
+Name=Wilson Gbedema
+Email=wilsongbedema@gmail.com
+Language=JavaScript
+Biostack=Genomics
+SlackUsername=@Wilson
+
+Name=Blessing Chinweotito Ogboo
+Email=blessingpower24@gmail.com
+Language=Python
+Biostack=Medicinal Chemistry and Chemoinformatics
+SlackUsername=@Blessing
+
+Name=Ahmed M.Osman
+Email=dr.ahmed.mamdouh.93@gmail.com
+Language=Perl
+Biostack=Drug Development & Data analysis
+SlackUsername=@ahmed
+
+Name=Igbokwe Joseph
+Email=igbokweodunayo@gmail.com
+Language=C#
+Biostack=Genomics
+SlackUsername=@Joseph
+
+Name=Jabale Rahmat
+Email=rahmat.jabale03oct@gmail.com
+Language_used=Python3
+Biostack=Genomics
+SlackUsername=@Jabale
+
+Name=Ozioma Egboka
+Email=oziomaegboka@gmail.com
+Language=Java
+Biostack=Drug Developement and Design
+SlackUsername=@Ozioma
+
+Name=Rasha Elkaffas
+Email=rasha.kaffas@kasralainy.edu.eg
+Language=C++
+Biostack=Genomics
+SlackUsername=@Rasha
+
+Name=Abubakar Ridwanullah
+Email=abubakarridwanullah@gmail.com
+Langauge used=Dart
+Biostack=Genomics  
+SlackUsername=@ridwanullah
+
+Name=AGBAJE SHERIFF
+Email=SHEFFYDEEN1@GMAIL.COM
+Language=PYTHON
+Biostack=GENOMICS
+SlackUsername=@SHEFFY
+
+Name=Timothy Ayeni
+Email=ayenitimothy3@gmail.com
+Language=Python
+Biostack=Genomics
+SlackUsername=@Timothy
