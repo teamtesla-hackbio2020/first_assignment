@@ -12,7 +12,7 @@ The languages used in this assignment are all in their latest versions
 
 ### Values used in code include
 
-* Name
+* Member Name
 
 * Biostack of choice
 
@@ -21,3 +21,8 @@ The languages used in this assignment are all in their latest versions
 * Slack username
 
 * Email address
+
+### How to clone repo and generate CSV
+
+* Fork or clone Bash script and run in shell using #$ sh teamteslabashscript.sh#
+* After successful cloning, a new file will be generated in current working directory named as *teslamembersdetails.csv*
