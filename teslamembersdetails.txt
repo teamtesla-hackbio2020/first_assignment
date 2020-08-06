@@ -10,7 +10,6 @@ Language=Python
 Biostack=Genomics
 SlackUsername=@monsurat
 
-
 Name=Blessing Chinweotito Ogboo
 Email=blessingpower24@gmail.com
 Language=Python
