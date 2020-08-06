@@ -1,0 +1,6 @@
+print('My name is Ibironke Monsurat Ademidun')
+print('Email: monsuratibironke994@gmail.com')
+print('Language used is python')
+print('My Biostack is Genomics')
+print('Slack username is @monsurat')
+print('Thank you')
