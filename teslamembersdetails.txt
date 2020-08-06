@@ -4,11 +4,11 @@ Language=JavaScript
 Biostack=Genomics
 SlackUsername=@Wilson
 
-Name=Wilson Gbedema
-Email=wilsongbedema@gmail.com
-Language=JavaScript
+Name=Ibironke Monsurat Ademidun
+Email=monsuratibironke994@gmail.com
+Language=Python
 Biostack=Genomics
-SlackUsername=@Wilson
+SlackUsername=@monsurat
 
 
 Name=Blessing Chinweotito Ogboo
