@@ -16,6 +16,12 @@ Language=Python
 Biostack=Medicinal Chemistry and Chemoinformatics
 SlackUsername=@Blessing
 
+Name=Uchechukwu Eze
+Email=godsapple.uc@gmail.com
+Language=Dart
+Biostack=Vaccine informatics
+SlackUsername=@Uche
+
 Name=Ahmed M.Osman
 Email=dr.ahmed.mamdouh.93@gmail.com
 Language=Perl
