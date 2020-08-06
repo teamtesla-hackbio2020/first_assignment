@@ -8,7 +8,7 @@ The languages used in this assignment are all in their latest versions
 
 ## How code was written
 
-![flowchart](Picture1.png)
+![flowchart](Picture2.png)
 
 ### Values used in code include
 
