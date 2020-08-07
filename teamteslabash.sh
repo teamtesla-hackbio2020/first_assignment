@@ -2,7 +2,7 @@
 
 git clone https://github.com/teamtesla-hackbio2020/team-tesla.git
 
-cd ./team-tesla
+cd team-tesla
 
 for file in $(ls);
 
